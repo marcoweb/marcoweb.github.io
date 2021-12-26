@@ -46,7 +46,7 @@ const config = {
         title: 'MarcoWeb',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/MW.png',
         },
         items: [
           {
