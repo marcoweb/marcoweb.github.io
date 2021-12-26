@@ -57,10 +57,15 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
+            href: 'https://www.youtube.com/c/MarcoCarvalhoweb',
+            label: 'Youtube',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/marcoweb',
             label: 'GitHub',
             position: 'right',
-          },
+          }
         ],
       },
       footer: {
