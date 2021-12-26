@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'MarcoWeb',
   tagline: 'Tech',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://marcoweb.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'marcoweb', // Usually your GitHub org/user name.
+  projectName: 'marcoweb.github.io', // Usually your repo name.
 
   presets: [
     [
@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'MarcoWeb',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
