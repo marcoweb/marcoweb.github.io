@@ -11,6 +11,8 @@
   background-image: url(../../static/img/MC-Banner.png);
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
+  text-shadow: 1px 2px 2px #2583c2;
 }
 
 @media screen and (max-width: 966px) {
