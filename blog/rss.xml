@@ -4,9 +4,17 @@
         <title>Marco Carvalho Blog</title>
         <link>https://marcoweb.github.io/blog</link>
         <description>Marco Carvalho Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Política de Privacidade]]></title>
+            <link>https://marcoweb.github.io/blog/mcnotes-privacy</link>
+            <guid>mcnotes-privacy</guid>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ao utilizar o MCNotes não será coletado ou transferido nenhum dado pessoal, sendo que todas as informações serão armazenadas no aparelho do utilizador.]]></description>
+            <content:encoded><![CDATA[<p>Ao utilizar o MCNotes não será coletado ou transferido nenhum dado pessoal, sendo que todas as informações serão armazenadas no aparelho do utilizador.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://marcoweb.github.io/blog/welcome</link>

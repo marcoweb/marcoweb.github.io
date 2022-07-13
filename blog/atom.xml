@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcoweb.github.io/blog</id>
     <title>Marco Carvalho Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2022-07-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://marcoweb.github.io/blog"/>
     <subtitle>Marco Carvalho Blog</subtitle>
     <icon>https://marcoweb.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Política de Privacidade]]></title>
+        <id>mcnotes-privacy</id>
+        <link href="https://marcoweb.github.io/blog/mcnotes-privacy"/>
+        <updated>2022-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ao utilizar o MCNotes não será coletado ou transferido nenhum dado pessoal, sendo que todas as informações serão armazenadas no aparelho do utilizador.]]></summary>
+        <content type="html"><![CDATA[<p>Ao utilizar o MCNotes não será coletado ou transferido nenhum dado pessoal, sendo que todas as informações serão armazenadas no aparelho do utilizador.</p>]]></content>
+        <author>
+            <name>Marco Antônio Gusmão Carvalho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
